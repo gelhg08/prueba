@@ -1,0 +1,69 @@
+{
+  "companies": [
+    {
+      "id": "1891",
+      "email": "cardonadeiby88@gmail.com",
+      "password": "123",
+      "company": "greendy",
+      "imageCompany": "https://i.pinimg.com/236x/79/24/3a/79243a87c7d6ea1df14a994eac0fddbd.jpg",
+      "nit": "1089599434"
+    },
+    {
+      "id": "bdfc",
+      "email": "solvito@gmail.com",
+      "password": "123",
+      "company": "solvo",
+      "imageCompany": "https://i.pinimg.com/236x/79/24/3a/79243a87c7d6ea1df14a994eac0fddbd.jpg",
+      "nit": "5595955"
+    },
+    {
+      "id": "5cb3",
+      "email": "thomas@gmail.com",
+      "password": "123",
+      "company": "thomaselcapito",
+      "imageCompany": "https://i.pinimg.com/236x/ef/c9/1a/efc91ab5bf77da1ed8fee4e4d337c9c7.jpg",
+      "nit": "118188181"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "83eb",
+      "title": ".net",
+      "experience": "4",
+      "salary": "5",
+      "location": "medallo",
+      "modality": "In person",
+      "description": "esto esta melisimo",
+      "companyId": "1891",
+      "imagenJob": "https://i.pinimg.com/236x/79/24/3a/79243a87c7d6ea1df14a994eac0fddbd.jpg",
+      "company": "greendy",
+      "fechaCompleta": "1/2/2024"
+    },
+    {
+      "id": "e13b",
+      "title": "analista de datos",
+      "experience": "2",
+      "salary": "300003030",
+      "location": "medellin",
+      "modality": "In person",
+      "description": "solvo lo mejor",
+      "companyId": "bdfc",
+      "imagenJob": "https://i.pinimg.com/236x/79/24/3a/79243a87c7d6ea1df14a994eac0fddbd.jpg",
+      "company": "solvo",
+      "fechaCompleta": "1/2/2024"
+    },
+    {
+      "title": "departemia",
+      "experience": "4",
+      "salary": "3",
+      "location": "medallos",
+      "modality": "Remote",
+      "description": "sifuncionathomaselmascapo",
+      "companyId": "5cb3",
+      "imagenJob": "https://i.pinimg.com/236x/ef/c9/1a/efc91ab5bf77da1ed8fee4e4d337c9c7.jpg",
+      "company": "thomaselcapito",
+      "fechaCompleta": "1/2/2024",
+      "id": "0ab5"
+    }
+  ]
+}
